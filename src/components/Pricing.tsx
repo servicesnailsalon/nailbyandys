@@ -6,7 +6,7 @@ const pricingCategories = [
   {
     name: 'Manicure',
     items: [
-      { name: 'Classic Manicure', price: '$25' },
+      { name: 'Classic Manicure', price: '$30+' },
       { name: 'Gel Manicure', price: '$40' },
       { name: 'Signature Spa Manicure', price: '$55' },
       { name: 'Polish Change', price: '$15' },
@@ -15,7 +15,7 @@ const pricingCategories = [
   {
     name: 'Pedicure',
     items: [
-      { name: 'Classic Pedicure', price: '$35' },
+      { name: 'Classic Pedicure', price: '$40' },
       { name: 'Gel Pedicure', price: '$50' },
       { name: 'Deluxe Spa Pedicure', price: '$70' },
       { name: 'Foot Massage (15 min)', price: '$20' },
