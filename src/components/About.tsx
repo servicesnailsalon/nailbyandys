@@ -13,7 +13,7 @@ export function About() {
           >
             <div className="relative z-10 rounded-3xl overflow-hidden shadow-2xl">
               <img
-                src="https://images.unsplash.com/photo-1522337660859-02fbefca4702?q=80&w=1000&auto=format&fit=crop"
+                src="https://lh3.googleusercontent.com/5WnEgnyhNkt1v0mNCLAbXn3yCGHDGPFmmkwEXfK_Zj__1Ga-HBzxfJtCRgx-btRmdFHNBRtEnPSTeu1_-Q=s360-w360-h360"
                 alt="Salon Interior"
                 className="w-full h-auto"
                 referrerPolicy="no-referrer"
