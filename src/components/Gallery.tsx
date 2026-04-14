@@ -1,12 +1,12 @@
 import { motion } from 'motion/react';
 
 const images = [
-  'https://images.unsplash.com/photo-1632345031435-8727f6897d53?q=80&w=600&auto=format&fit=crop',
-  'https://images.unsplash.com/photo-1607779097040-26e80aa78e66?q=80&w=600&auto=format&fit=crop',
-  'https://images.unsplash.com/photo-1519014816548-bf5fe059798b?q=80&w=600&auto=format&fit=crop',
-  'https://images.unsplash.com/photo-1604654894610-df63bc536371?q=80&w=600&auto=format&fit=crop',
-  'https://images.unsplash.com/photo-1522337660859-02fbefca4702?q=80&w=600&auto=format&fit=crop',
-  'https://images.unsplash.com/photo-1516975080664-ed2fc6a32937?q=80&w=600&auto=format&fit=crop',
+  'https://lh3.googleusercontent.com/Q5GKV4IimqGXSCDO_7h2l_akSEojLHckmalJy4OJHIArsEAspElnBbPtEYSTI4fo942r9EbMx3oyRI75NQ=s360-w360-h360',
+  'https://lh3.googleusercontent.com/8dwaGmy0Pdr8eSiL9pbtqVXvP1USrcJXsrnkfLhOqvGHNqKLlf2AvcgBNsV_zkelJ1jS2qdJqTBGtzIeYw=s360-w360-h360',
+  'https://lh3.googleusercontent.com/3OJBVps8F6SUyzl9bY3shDqeqMu8Tbdc-sEyNluebYdui8ktTzCw1w1Z3fZtQOX3fDqUZT_PXj5Bw7C1Bg=s360-w360-h360',
+  'https://lh3.googleusercontent.com/bir7RXz8UTmIwP3bOnFbAzakafPpk-wY4v83Ckroe8wdDlEvUeSKac8eHlO-BRiKXLYQ26l7N5HrTNCj0A=s360-w360-h360',
+  'https://lh3.googleusercontent.com/NTapZGiYSv41mJfYH2or4K1lY7tmuIEo2tSScibsxSmF7d-d2UM49b-NvJB_vnULly4GdxyW_o4IWq2BNg=s360-w360-h360',
+  'https://lh3.googleusercontent.com/UtT5Kc0BIXprJpCV7qIezH41Gn-ANO9YB5vEABxyU_vjyjZjPiuxWfvnmQB7u4dgbb97tCf-GLVJVrkIug=s360-w360-h360',
 ];
 
 export function Gallery() {
